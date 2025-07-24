@@ -43,10 +43,9 @@ A full‑stack application for sending and receiving “kudos” (peer‑to‑pe
 
 ### Clone the Repo and run FE and BE
 ```bash
-git clone https://github.com/Akshita963/kudos.git
+git clone https://github.com/Akshita963/kudos-app.git
 cd kudos-app
-git checkout kudos
-git pull origin kudos
+git pull origin main
 
 ## 1. Backend Setup
 ```bash
